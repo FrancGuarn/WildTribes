@@ -35,6 +35,14 @@ p {
   color: #1f2d1f;
 }
 
+.img-divisorio {
+    width: 90%;
+    margin: 0;
+    float: center;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
 .bottone-download {
     display: inline-block;
     width: 15%;
@@ -60,10 +68,11 @@ p {
 }
 
 .img-needfinding {
-    width: 60%;
+    width: 40%;
     height: auto;
     float: left;
     margin: 0;
+    border-radius: 50%;
 }
 
 .Focus {
@@ -74,10 +83,11 @@ p {
 }
 
 .img-focus {
-    width: 60%;
+    width: 40%;
     height: auto;
     float: right;
     margin: 0;
+    border-radius: 50%;
 }
 
 .Task {
@@ -88,14 +98,15 @@ p {
 }
 
 .img-task {
-    width: 60%;
+    width: 40%;
     height: auto;
     float: left;
     margin: 0;
+    border-radius: 50%;
 }
 
 .Authors {
-    margin-top: 15%;
+    margin-top: 0%;
 }
 
 .Authors1 {
