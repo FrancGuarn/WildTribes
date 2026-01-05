@@ -43,6 +43,10 @@ p {
     margin-bottom: 8%;
 }
 
+.Step {
+    align-items: center;
+}
+
 .bottone-download {
     display: inline-block;
     width: 15%;
@@ -63,7 +67,7 @@ p {
 .Needfinding {
     display: flex;
     align-items: center;
-    justify-items: center;
+    justify-content: center;
     margin-top: 10%;
 }
 
@@ -78,7 +82,7 @@ p {
 .Focus {
     display: flex;
     align-items: center;
-    justify-items: center;
+    justify-content: center;
     margin-top: 5%;
 }
 
@@ -93,7 +97,7 @@ p {
 .Task {
     display: flex;
     align-items: center;
-    justify-items: center;
+    justify-content: center;
     margin-top: 5%;
 }
 
