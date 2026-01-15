@@ -161,6 +161,21 @@ p {
     flex-direction: column;
 }
 
+.Finale {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.img-finale {
+    width: 40%;
+    height: auto;
+    float: right;
+    margin: 0;
+    border-radius: 50%;
+}
+
 .bottone-download-ut {
     display: inline-block;
     white-space: nowrap;
@@ -230,3 +245,4 @@ p {
 .author figcaption {
     font-weight: bold;
 }
+
